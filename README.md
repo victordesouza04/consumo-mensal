@@ -1,8 +1,10 @@
-Calculadora de consumo elétrico inteligente
+Calculadora de consumo elétrico inteligente⚡
 
-Tem o objetivo de ajudar usuários a saber quanto de energia os aparelhos gastam por mês
+Tem o objetivo de ajudar usuários a saber quanto de energia os aparelhos gastam por mês⚡
 
-Linguagem utilizada: Python
+Linguagem utilizada:
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 Formula utilizada para cálculo:
 consumomensal = (potencia * tempo * 30) / 1000
